@@ -1,4 +1,4 @@
-![Logo](./logo.png)
+![GitHub Banner](./GitHub Banner.png)
 
 # Amicale CORE
 Nous vous souhaitons la bienvenue à l'[Amicale CORE](https://amicalecore.org/).
